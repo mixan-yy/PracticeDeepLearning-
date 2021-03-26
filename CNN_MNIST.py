@@ -149,6 +149,6 @@ with torch.no_grad():
 
 
 # %%
-
+#accuracy achieved = 97.08%
 
 
